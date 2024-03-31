@@ -6,8 +6,9 @@
  Link do jogo: <a href="https://victorsoaresho.itch.io/bancodedados" target="_blank">https://victorsoaresho.itch.io/bancodedados<a>
 
  ## Descrição: 
- Neste jogo você comanda o grande John, se movimentando através das teclas W,A,S,D e, atirando pelo click esquerdo do mouse, sua missão será matar os aliens vermelhos!
- <BR>
+ Neste jogo você comanda o grande John! <BR>
+ Se movimente usando as teclas W,A,S,D. <BR>
+ Atire usando o click esquerdo do mouse. <BR>
  Cada alien morto te dará 10 pontos, seu objetivo é matar o máximo de aliens que puder e ficar em 1º no ranking!
 
  
