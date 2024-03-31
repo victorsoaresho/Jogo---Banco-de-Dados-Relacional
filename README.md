@@ -10,5 +10,8 @@
  Se movimente usando as teclas W,A,S,D. <BR>
  Atire usando o click esquerdo do mouse. <BR>
  Cada alien morto te dará 10 pontos, seu objetivo é matar o máximo de aliens que puder e ficar em 1º no ranking!
+ <BR>
+ <BR>
+ <b>LEMBRE-SE:</b> Não deixe os aliens te tocarem, caso contrário, GAME OVER!!!
 
  
