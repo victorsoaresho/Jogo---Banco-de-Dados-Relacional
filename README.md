@@ -14,9 +14,18 @@
  <BR>
  <b>LEMBRE-SE:</b> Não deixe os aliens te tocarem, caso contrário, GAME OVER!!!
 
- ## Gameplay
+ ## Gameplay:
  
 https://github.com/victorsoaresho/Jogo---Banco-de-Dados-Relacional/assets/136899628/2f317f51-e6b4-4627-89bb-1b0650380da7
+
+## 🎁 Expressões de gratidão
+
+* Conte a outras pessoas sobre este projeto 📢;
+* Convide alguém da equipe para uma cerveja 🍺;
+
+
+---
+⌨️ com ❤️ por [Victor](https://github.com/victorsoaresho) 😊
 
 
  
