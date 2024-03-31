@@ -3,6 +3,6 @@
 
  # Nome do Jogo: John, the last survivor! 👽
  Em um mundo dominado pelos aliens vermelhos, John, o último sobrevivente luta por sua vida durante a batalha final. <BR>
- Link do jogo: https://victorsoaresho.itch.io/bancodedados
+ Link do jogo: <a href="https://victorsoaresho.itch.io/bancodedados" target="blank">https://victorsoaresho.itch.io/bancodedados<a>
 
  
